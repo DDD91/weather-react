@@ -58,10 +58,4 @@ if (loaded) {
 return form;
 }
 }
-<div>
-         <p className="text-center mt-5">
-"This project was coded by Devanie Dawson, and it is "
-<a href="https://github.com/DDD91/weather-react" target="_blank" rel="noreferrer">open-sourced</a> 😊
-         </p>
-    
-</div>
+
